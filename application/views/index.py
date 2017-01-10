@@ -22,7 +22,7 @@ def submit():
 	if request.method == 'POST':
 		buildingInputs = request.form.to_dict()
 		flash("Building inputs sucessfully submitted")
-		print(buildingInputs[primary_activity])
+		flash(buildingInputs['primary_activity'])
 	
 	return render_template('index.html', 
 		buildingInputs=buildingInputs)
