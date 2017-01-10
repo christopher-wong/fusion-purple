@@ -16,5 +16,5 @@ is ideal for projects meant to live both server and client side. It has been pre
 * Bootstrap Components Reference http://getbootstrap.com/components/
 
 ![Screenshot of index.html]
-(http://imgur.com/a/c7PP5)
+(http://i.imgur.com/bB8BDio.png)
 Check out my personal website at http://christopherwong.co
