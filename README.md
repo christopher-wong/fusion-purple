@@ -11,16 +11,14 @@ is ideal for projects meant to live both server and client side. It has been pre
 * `Highcharts` http://www.highcharts.com/download
 
 ## What's included:
-'
-fusion-purple/
+'fusion-purple/
 ├── application/
 │   ├── __init__.py
 │   ├── static/
 │   ├── templates/
 │   └── views/
 ├── runserver.py
-└── README.md
-'
+└── README.md'
 
 ## References:
 * Flask for Larger Applications http://flask.pocoo.org/docs/0.12/patterns/packages/
