@@ -11,20 +11,6 @@ is ideal for projects meant to live both server and client side. It has been pre
 * `Highcharts` http://www.highcharts.com/download
 
 ## What's included:
-|- fusion-purple/
-    |- application/
-      |- static/
-        |- bootstrap-3.3.7-dist/
-        |- charts/
-      |- templates/
-|------------ about.html
-|------------ index.html
-|-------- views/
-|------------ __init__.py
-|------------ about.py
-|------------ index.py
-|- README.md
-|- runserver.py
 
 ## References:
 * Flask for Larger Applications http://flask.pocoo.org/docs/0.12/patterns/packages/
