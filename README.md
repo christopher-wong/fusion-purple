@@ -15,4 +15,6 @@ is ideal for projects meant to live both server and client side. It has been pre
 * Modular Applications with Blueprints http://flask.pocoo.org/docs/0.12/blueprints/#blueprints
 * Bootstrap Components Reference http://getbootstrap.com/components/
 
+![Screenshot of index.html]
+(http://imgur.com/a/c7PP5)
 Check out my personal website at http://christopherwong.co
