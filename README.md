@@ -10,6 +10,8 @@ is ideal for projects meant to live both server and client side. It has been pre
 * `Twitter Bootstrap` http://getbootstrap.com
 * `Highcharts` http://www.highcharts.com/download
 
+## What's included:
+
 ## References:
 * Flask for Larger Applications http://flask.pocoo.org/docs/0.12/patterns/packages/
 * Modular Applications with Blueprints http://flask.pocoo.org/docs/0.12/blueprints/#blueprints
