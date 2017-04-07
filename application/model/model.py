@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#!/usr/bin/python
+# !/usr/bin/python
 
 from flask import Flask, render_template, request, Blueprint, redirect, flash
 
