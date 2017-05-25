@@ -3,8 +3,7 @@
 
 from flask import render_template, request, Blueprint, redirect
 
-about_bp = Blueprint('about', __name__)
-
+about_bp = Blueprint('about', __name__, template_folder='templates')
 
 # Views
 
